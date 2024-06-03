@@ -7,7 +7,7 @@ from typing import Callable, Dict, List, Optional, Sequence, Tuple, Union
 
 import numpy as np
 import torch
-from gym import spaces
+from gymnasium import spaces
 from torch import Tensor
 
 import vmas.simulator.utils
