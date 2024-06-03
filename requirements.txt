@@ -1,5 +1,5 @@
 numpy
 torch
-pyglet<=1.5.27
-gym
+pyglet<=1.5.29
+gymnasium
 six
